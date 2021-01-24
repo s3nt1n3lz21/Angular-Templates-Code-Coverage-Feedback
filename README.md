@@ -12,8 +12,8 @@ First check the list of issues to see if the bug already exists, if it does plea
 
 ## Request A New Feature
 
-First check the list of issues to see if the feature request already exists, if it does please upvote it so that we can get a better understanding of its priority and get to work on it sooner. You can request a new feature by
-1. Clicking on 'Issues'
+First check the list of issues to see if the feature request already exists, if it does please upvote it so that we can get a better understanding of its priority and get to work on it sooner. To request a new feature:
+1. Click on 'Issues'
 2. Click on 'New Issue'
 2. Click on 'Request A Feature'
 3. Fill in the template to help explain your idea.
